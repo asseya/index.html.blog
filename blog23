@@ -1,0 +1,32 @@
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>my life in Leeds </title>
+        </head>
+        <body>
+            <div class="blog"
+        
+          <h1 style="background-color: blue-violet;">BLOG</h1>
+          
+          <p style="background-color: coral;"> My introduction, I have lived in Leeds since I was born, I have 4 sisters, and 2 parents, we all grew up together, and our lives was full of emotion, happiness, sadness, grief, but that is how life is, as I'm growing up maturing, I always have had big dreams to do everything, one day i can accomplish that when the time is right</p>
+          
+          <p style="background-color: aquamarine;">The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela
+            The way to get started is to quit talking and begin doing. -Walt Disney
+            Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -Steve Jobs
+            The future belongs to those who believe in the beauty of their dreams. -Eleanor Roosevelt
+            If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. -Oprah Winfrey
+            If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -James Cameron
+            You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one. -John Lennon</p>
+          <DOCTYPE HTML>
+            <html>
+            <head>
+                <meta charset="UTF-8">
+            </head>
+            <body>
+             <h1>my first emoji</h1>
+             <p>&#128512;</p>
+
+           <img src="file:///C:/Users/User/OneDrive/Desktop/Life%20Quote%20Your%20Story.png">
+        </body>
+    </head>
+</html>
